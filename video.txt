@@ -1,0 +1,9 @@
+   if (textBox1.Text=="user" && textBox2.Text == "pass")
+            {
+                MessageBox.Show("Login com sucesso");
+
+            }
+            else
+            {
+                MessageBox.Show("Incorreto");
+            }
